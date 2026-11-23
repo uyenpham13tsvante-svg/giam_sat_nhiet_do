@@ -1,0 +1,1 @@
+idf_component_register(SRCS "drv_buttons.c" INCLUDE_DIRS "include" PRIV_REQUIRES esp_driver_gpio board_config)

@@ -1,0 +1,1 @@
+idf_component_register(SRCS "drv_actuators.c" INCLUDE_DIRS "include" PRIV_REQUIRES esp_driver_gpio esp_driver_ledc board_config)

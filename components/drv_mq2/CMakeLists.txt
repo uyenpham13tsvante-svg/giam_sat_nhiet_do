@@ -1,0 +1,1 @@
+idf_component_register(SRCS "drv_mq2.c" INCLUDE_DIRS "include" PRIV_REQUIRES esp_adc board_config)
