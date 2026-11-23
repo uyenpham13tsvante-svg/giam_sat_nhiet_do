@@ -5,3 +5,4 @@ managed_components/
 dependencies.lock
 tests_host/test_runner
 tests_host/test_runner.exe
+.vscode/
